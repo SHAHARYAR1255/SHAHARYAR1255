@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **[my portfolio website](https://malik-portfolio.surge.sh/home)** 
+- 🔭 I’m currently working on **[my portfolio website](https://malik-portfolio.surge.sh)** 
     using
   - [X] React (context api)
   - [X] Firebase (firestore)
