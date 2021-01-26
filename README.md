@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on 
-  - [X] React
-  - [X] Firebase
+- 🔭 I’m currently working on **[my portfolio website](https://malik-portfolio.surge.sh/home)** 
+    using
+  - [X] React (context api)
+  - [X] Firebase (firestore)
   
 - 🌱 I’m currently learning
   - TS
