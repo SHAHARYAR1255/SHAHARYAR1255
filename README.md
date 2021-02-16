@@ -4,10 +4,12 @@
     using
   - [X] React (context api)
   - [X] Firebase (firestore)
+  - [X] Cloudinary
   
 - 🌱 I’m currently learning
-  - TS
-  - React Native
+  - optimization
+  - Node js
+  - Azure
   - MERN stack
 - ***⚡ Love Cricket ***
 
