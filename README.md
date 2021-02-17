@@ -13,7 +13,7 @@
   - MERN stack
 
 -  Also practice on codewars ,
--  my stats (not enough I know) **[MY STATS][https://www.codewars.com/users/SHAHARYAR1255/stats]
+-  my stats (not enough I know) **[MY STATS](https://www.codewars.com/users/SHAHARYAR1255/stats)**
 
 - ***⚡ Love Cricket ***
 
