@@ -1,4 +1,5 @@
 ### Hi there 👋
+- Providing Web Solutions at **[mernday.tech](https://mernday.tech)**
 
 - 🔭 I’m currently working on **[my portfolio website](https://malik-portfolio.surge.sh)** 
     using
