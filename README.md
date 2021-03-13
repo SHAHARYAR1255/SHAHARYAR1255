@@ -23,8 +23,8 @@
 
 #### CERTIFICATES
 
-   - **[Server-side Development using NodeJS, Express and MongoDB](https://www.coursera.org/account/accomplishments/certificate/VRVDYX3FPL47)
-   - **[Front-End Web Development with React](https://www.coursera.org/account/accomplishments/certificate/NLZZNA3NJ9MG)
-   - **[Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/account/accomplishments/records/K4LZ6QMJXTQQ)
-   - **[The Introduction to Quantum Computing](https://www.coursera.org/account/accomplishments/certificate/AGTS2Z5CG9EB)
-   - **[Interactivity with Javascript](https://www.coursera.org/account/accomplishments/certificate/46KC7CBT5XYA)
+   - **[Server-side Development using NodeJS, Express and MongoDB](https://www.coursera.org/account/accomplishments/certificate/VRVDYX3FPL47)**
+   - **[Front-End Web Development with React](https://www.coursera.org/account/accomplishments/certificate/NLZZNA3NJ9MG)**
+   - **[Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/account/accomplishments/records/K4LZ6QMJXTQQ)**
+   - **[The Introduction to Quantum Computing](https://www.coursera.org/account/accomplishments/certificate/AGTS2Z5CG9EB)**
+   - **[Interactivity with Javascript](https://www.coursera.org/account/accomplishments/certificate/46KC7CBT5XYA)**
