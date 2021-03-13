@@ -8,10 +8,9 @@
   - [X] Cloudinary
   
 - 🌱 I’m currently learning
-  - optimization
-  - Node js
+  - Gatsby
   - Azure
-  - MERN stack
+  - serverless
 
 -  Also practice on codewars , **[my stats (not enough I know) ](https://www.codewars.com/users/SHAHARYAR1255/stats)**
 
