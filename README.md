@@ -3,12 +3,13 @@
 
 - 🔭 I’m currently working on 
     
-  - [X] React (context api)
-  - [X] Firebase (firestore)
+  - [X] React 
+  - [X] Firebase 
   - [X] Cloudinary
   
 - 🌱 I’m currently learning
-  - Gatsby
+  - nodejs
+  - mongodb
   - Azure
   - serverless
 
