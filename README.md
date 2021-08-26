@@ -1,14 +1,7 @@
 ### Hi there 👋
-- Providing Web Solutions at **[mernday.tech](https://mernday.tech)**
-
-- 🔭 I’m currently working on 
-    
-  - [X] React 
-  - [X] Firebase 
-  - [X] Cloudinary
+-  **[mernday.tech](https://mernday.tech)**
   
 - 🌱 I’m currently learning
-  - nodejs
   - mongodb
   - Azure
   - serverless
