@@ -1,12 +1,11 @@
 ### Hi there 👋
--  **[mernday.tech](https://mernday.tech)**
+-  providing services at **[mernday.tech](https://mernday.tech)**
   
 - 🌱 I’m currently learning
-  - mongodb
-  - Azure
-  - serverless
+  - PLC programming
+  - Image processing using MATLAB
 
--  Also practice on codewars , **[my stats (not enough I know) ](https://www.codewars.com/users/SHAHARYAR1255/stats)**
+-  Also practice on codewars , **[my stats (haven't done much) ](https://www.codewars.com/users/SHAHARYAR1255/stats)**
 
 - ***⚡ Love Cricket ***
 
