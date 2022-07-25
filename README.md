@@ -1,9 +1,9 @@
 ### Hi there 👋
--  providing services at **[mernday.tech](https://mernday.tech)**
+-  providing services at **[mernday.tech]
   
 - 🌱 I’m currently learning
   - PLC programming
-  - Image processing using MATLAB
+
 
 -  Also practice on codewars , **[my stats (haven't done much) ](https://www.codewars.com/users/SHAHARYAR1255/stats)**
 
