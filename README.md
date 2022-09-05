@@ -1,9 +1,8 @@
 ### Hi there 👋
--  providing services at **[mernday.tech]
+-  was providing services at **[mernday.tech]**
   
-- 🌱 I’m currently learning
-  - PLC programming
-
+- 🌱 Current status
+  - MERN stack enthusiast
 
 -  Also practice on codewars , **[my stats (haven't done much) ](https://www.codewars.com/users/SHAHARYAR1255/stats)**
 
@@ -12,11 +11,13 @@
  #### Reach Me: 
  
   - **[email](shaharyar.malik2000@gmail.com)**
+  - **[LinkedIN](https://www.linkedin.com/in/shaharyar-malik-b7415219a/)**
 
 #### CERTIFICATES
 
    - **[Electrical Power System](https://coursera.org/share/52918fbb667c33d61f05f8a8406f6e96)**
-   - **[Introduction to programming with Matlab]**
+   - **[Introduction to programming with Matlab]** from COURSERA
+   - **[M001: MongoDB Basics](https://university.mongodb.com/course_completion/49f36d19-b371-465e-aa14-3784176c8f2d?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)**
    - **[Server-side Development using NodeJS, Express and MongoDB](https://www.coursera.org/account/accomplishments/certificate/VRVDYX3FPL47)**
    - **[Front-End Web Development with React](https://www.coursera.org/account/accomplishments/certificate/NLZZNA3NJ9MG)**
    - **[Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/account/accomplishments/records/K4LZ6QMJXTQQ)**
