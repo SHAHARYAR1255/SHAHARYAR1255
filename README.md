@@ -6,7 +6,7 @@
   - MERN stack enthusiast
   
 - Portfolio
-  - **[Portfolio WebApp](react-portfolio-malik1255.surge.sh)**
+  - **[Portfolio WebApp](https://react-portfolio-malik1255.surge.sh)**
     
 -  Also practice on codewars , **[my stats (haven't done much) ](https://www.codewars.com/users/SHAHARYAR1255/stats)**
 
