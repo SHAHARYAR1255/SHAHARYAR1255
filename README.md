@@ -1,6 +1,6 @@
 ### Hi there 👋
 -  was providing services at **[mernday.tech]**
--  has helped 36488 Developers find answers to 60810 problems.
+-  has helped 36488 Developers find answers to 60810 problems on Grepper.
   
 - 🌱 Current status
   - MERN stack enthusiast
