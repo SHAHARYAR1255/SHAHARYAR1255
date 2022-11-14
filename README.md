@@ -19,7 +19,6 @@
 
 #### CERTIFICATES
 
-   - **[Introduction to programming with Matlab]** from COURSERA
    - **[M001: MongoDB Basics](https://university.mongodb.com/course_completion/49f36d19-b371-465e-aa14-3784176c8f2d?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)**
    - **[Server-side Development using NodeJS, Express and MongoDB](https://www.coursera.org/account/accomplishments/certificate/VRVDYX3FPL47)**
    - **[Front-End Web Development with React](https://www.coursera.org/account/accomplishments/certificate/NLZZNA3NJ9MG)**
