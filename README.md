@@ -4,9 +4,10 @@
   
 - 🌱 Current status
   - MERN stack enthusiast
+  - learning NEXTJS
   
 - Portfolio
-  - **[Portfolio WebApp](https://react-portfolio-malik1255.surge.sh)**
+  - **[Portfolio WebApp](http://malikshaharyar.surge.sh/)**
     
 -  Also practice on codewars , **[my stats (haven't done much) ](https://www.codewars.com/users/SHAHARYAR1255/stats)**
 
