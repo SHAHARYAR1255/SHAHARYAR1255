@@ -1,5 +1,4 @@
 ### Hi there 👋
--  was providing services at **[mernday.tech]**
 -  has helped 36488 Developers find answers to 60810 problems on Grepper.
   
 - 🌱 Current status
@@ -9,7 +8,7 @@
 - Portfolio
   - **[Portfolio WebApp](http://malikshaharyar.surge.sh/)**
     
--  Also practice on codewars , **[my stats (haven't done much) ](https://www.codewars.com/users/SHAHARYAR1255/stats)**
+-  Also practice on codewars , **[(haven't done much) ](https://www.codewars.com/users/SHAHARYAR1255/stats)**
 
 - ***⚡ Love Cricket ***
 
