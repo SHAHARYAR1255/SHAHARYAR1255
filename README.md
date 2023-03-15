@@ -1,12 +1,9 @@
 ### Hi there 👋
--  has helped 36488 Developers find answers to 60810 problems on Grepper.
+-  has helped 44147 Devs solve 75711 problems on Grepper.
   
 - 🌱 Current status
   - MERN stack enthusiast
-  - learning NEXTJS
-  
-- Portfolio
-  - **[Portfolio WebApp](http://malikshaharyar.surge.sh/)**
+  - learning and practicing AWS
     
 -  Also practice on codewars , **[(haven't done much) ](https://www.codewars.com/users/SHAHARYAR1255/stats)**
 
