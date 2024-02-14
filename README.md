@@ -1,12 +1,13 @@
 ### Hi there 👋
--   Launched [TRANSCRIPT VIDEO](https://lively-salmiakki-6b92bd.netlify.app/) will be available very soon at [TRANSCRIPT VIDEO APP](https://beamish-nasturtium-eb68a3.netlify.app/).
--   learns and writes about cloud computing at [MONTER CLOUD DOCS](https://cloudocs.vercel.app/).
+-   Launched [VIDEOS TRANSCRIPTION](https://videostranscription.com/) and is available at [VIDEOS TRANSCRIPTION APP](https://app.videostranscription.com/).
+-   currently working on an Edtech product [MONTERONE](https://www.monterone.vercel.app)
 -   built [KUIKWIT](https://app.kuikwit.com)
--  has helped 54892 Devs solve 95631 problems on Grepper.
+-   learns and writes about cloud computing at [MONTER CLOUD DOCS](https://cloudocs.vercel.app/).
+-   has helped 54892 Devs solve 95631 problems on Grepper.
   
 - 🌱 Current status
-  - MERN stack enthusiast
-  - AWS Cloud Developer
+  - MERN stack Developer 
+  - AWS Cloud enthusiast
 
 - ***⚡ Love Cricket ***
 
