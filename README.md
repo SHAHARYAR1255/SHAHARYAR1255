@@ -1,6 +1,6 @@
 ### Hi there 👋
 -   Launched [VIDEOS TRANSCRIPTION](https://videostranscription.com/) and is available at [VIDEOS TRANSCRIPTION APP](https://app.videostranscription.com/).
--   currently working on an Edtech product [MONTERONE](https://www.monterone.vercel.app)
+-   currently working on an Edtech product [MONTERONE](https://monterone.vercel.app)
 -   built [KUIKWIT](https://app.kuikwit.com)
 -   learns and writes about cloud computing at [MONTER CLOUD DOCS](https://cloudocs.vercel.app/).
 -   has helped 54892 Devs solve 95631 problems on Grepper.
