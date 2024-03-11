@@ -3,23 +3,12 @@
 </div>
 
 
-### Hi there 👋
+### Recent Updates 👋
 -   Launched [VIDEOS TRANSCRIPTION](https://videostranscription.com/) and is available at [VIDEOS TRANSCRIPTION APP](https://app.videostranscription.com/).
 -   currently working on an Edtech product [MONTERONE](https://monterone.vercel.app)
 -   built [KUIKWIT](https://app.kuikwit.com)
 -   learns and writes about cloud computing at [MONTER CLOUD DOCS](https://cloudocs.vercel.app/).
 -   has helped 54892 Devs solve 95631 problems on Grepper.
-  
-- 🌱 Current status
-  - MERN stack Developer 
-  - AWS Cloud enthusiast
-
-- ***⚡ Love Cricket ***
-
- #### Reach Me: 
- 
-  - **[email](shaharyar.malik2000@gmail.com)**
-  - **[LinkedIN](https://www.linkedin.com/in/shaharyar-malik-b7415219a/)**
 
 #### CERTIFICATES( courses and specializaions)
    - **[Building Modern Nodejs Application on AWS](https://coursera.org/share/fca2549fedf7807f959d2d3d6db1508d)**
