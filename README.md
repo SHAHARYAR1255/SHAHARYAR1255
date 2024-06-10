@@ -4,13 +4,14 @@
 
 
 ### Recent Updates 👋
--   Launched [VIDEOS TRANSCRIPTION](https://videostranscription.com/) and is available at [VIDEOS TRANSCRIPTION APP](https://app.videostranscription.com/).
+-   Launched [VIDEOS TRANSCRIPTION](https://videostranscription.com/).
 -   currently working on an Edtech product [MONTERONE](https://monterone.vercel.app)
 -   built [KUIKWIT](https://app.kuikwit.com)
 -   learns and writes about cloud computing at [MONTER CLOUD DOCS](https://cloudocs.vercel.app/).
 -   has helped 54892 Devs solve 95631 problems on Grepper.
 
 #### CERTIFICATES( courses and specializaions)
+   - **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/3P3YDRM7QCVS)**
    - **[Building Modern Nodejs Application on AWS](https://coursera.org/share/fca2549fedf7807f959d2d3d6db1508d)**
    - **[AWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/6CX692XJQ2LS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)**
    - **[M001: MongoDB Basics](https://university.mongodb.com/course_completion/49f36d19-b371-465e-aa14-3784176c8f2d?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)**
