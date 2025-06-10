@@ -15,6 +15,10 @@
    - **[Machine Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/3P3YDRM7QCVS)**
    - **[Building Modern Nodejs Application on AWS](https://coursera.org/share/fca2549fedf7807f959d2d3d6db1508d)**
    - **[AWS Fundamentals Specialization](https://www.coursera.org/account/accomplishments/specialization/6CX692XJQ2LS?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)**
+   - **[AWS Cloud Technical Essentials](https://www.coursera.org/account/accomplishments/verify/X6X2PX32HH4M)**
+   - **[Migrating to the AWS Cloud](https://www.coursera.org/account/accomplishments/verify/87BU2SQ88BAF)**
+   - **[AWS Fundamentals: Addressing Security Risk](https://www.coursera.org/account/accomplishments/verify/NTSACP5F6SC4)**
+   - **[AWS Fundamentals: Building Serverless Applications](https://www.coursera.org/account/accomplishments/verify/KXMM3NFHBLKR)**
    - **[M001: MongoDB Basics](https://university.mongodb.com/course_completion/49f36d19-b371-465e-aa14-3784176c8f2d?utm_source=copy&utm_medium=social&utm_campaign=university_social_sharing)**
    - **[Server-side Development using NodeJS, Express and MongoDB](https://www.coursera.org/account/accomplishments/certificate/VRVDYX3FPL47)**
    - **[Front-End Web Development with React](https://www.coursera.org/account/accomplishments/certificate/NLZZNA3NJ9MG)**
