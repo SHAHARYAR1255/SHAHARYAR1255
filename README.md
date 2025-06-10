@@ -73,7 +73,7 @@
 
 ### 🤖 **Agentic AI**
 - [**Introduction to LangGraph**](https://academy.langchain.com/certificates/7irkq4ifm2) - LangChain
-- 
+ 
 ### 🤖 **Machine Learning & AI**
 - [**Machine Learning Specialization**](https://www.coursera.org/account/accomplishments/specialization/3P3YDRM7QCVS) - Stanford University
 
@@ -126,7 +126,7 @@
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=shaharyar1255&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 
 **💡 "Building the future, one line of code at a time"**
 
