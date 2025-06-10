@@ -123,13 +123,4 @@
 
 </div>
 
----
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=shaharyar1255&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
-
-**💡 "Building the future, one line of code at a time"**
-
-</div>
-
 </div>
